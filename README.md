@@ -1,4 +1,4 @@
 Candle
 ======
 
-This is the PCB designed for my candle controller.
+This is the PCB designed for my candle controller. It's done using Eagle light.
